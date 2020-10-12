@@ -1,0 +1,28 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "Heroku URL - https://glacial-chamber-60973.herokuapp.com/",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sterntaylor/note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sterntaylor/note-taker/issues"
+  },
+  "homepage": "https://github.com/Sterntaylor/note-taker#readme"
+}

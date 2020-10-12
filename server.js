@@ -15,6 +15,7 @@ const PORT = process.env.PORT || 3001;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('Develop/public'));
+//using just 'public' only allowed index.html to load
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
     require('./routes/apiRoutes');

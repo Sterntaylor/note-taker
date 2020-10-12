@@ -4,6 +4,11 @@ var $saveNoteBtn = $(".save-note");
 var $newNoteBtn = $(".new-note");
 var $noteList = $(".list-container .list-group");
 
+//const DB = require('../../../../lib/db.json');
+//Will const DB fix problem not saving?
+//It didn't i think it made it worse...It took away save icon
+
+
 // activeNote is used to keep track of the note in the textarea
 var activeNote = {};
 

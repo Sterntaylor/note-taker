@@ -1,13 +1,13 @@
 # Note Taker
 
 ## Table of Contents
--[Description](#Description)
--[Install](#Install)
--[Creator](#Creator)
--[Repo](#Repo)
-=[Heroku](#Heroku)
--[Sources](#Sources)
--[Issues](#Issues)
+-[Description](#Description)</br>
+-[Install](#Install)</br>
+-[Creator](#Creator)</br>
+-[Repo](#Repo)</br>
+=[Heroku](#Heroku)</br>
+-[Sources](#Sources)</br>
+-[Issues](#Issues)</br>
 
 ## Description
 The purpose of this application is to provide a space that can record notes and display saved notes.
@@ -27,11 +27,11 @@ Taylor Stern, with help from starter code provided by UoA bootcamp
 Heroku URL - https://glacial-chamber-60973.herokuapp.com/ 
 
 ## Sources
-I used many sources to get my code up, the bulk of the help was from
- 11.1.4-11.1.6  -For help with Express and Heroku
- 11.2.5         -Help with middleware
-11.3.1-11.3.8   =Help checking files linked properly
-11.4.4          -Help Set up Routes
+I used many sources to get my code up, the bulk of the help was from</br>
+ 11.1.4-11.1.6  -For help with Express and Heroku</br>
+ 11.2.5         -Help with middleware</br>
+11.3.1-11.3.8   =Help checking files linked properly</br>
+11.4.4          -Help Set up Routes</br>
 
 External Sources,
 GitHub User - slyviaprabudy

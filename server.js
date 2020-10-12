@@ -1,5 +1,6 @@
 const express = require('express');
-
+const fs = require('fs');
+const path = require('path');
 //route files
 const apiRoutes = require('./routes/apiRoutes.js');
 const htmlRoutes = require('./routes/htmlRoutes.js');
@@ -16,6 +17,8 @@ app.use(express.json());
 app.use(express.static('Develop/public'));
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
+    require('./routes/apiRoutes');
+    require('./routes/htmlRoutes');
     //Used in zookeeper
 
 //Listener goes at bottom

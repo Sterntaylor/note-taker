@@ -5,7 +5,7 @@
 -[Install](#Install)</br>
 -[Creator](#Creator)</br>
 -[Repo](#Repo)</br>
-=[Heroku](#Heroku)</br>
+-[Heroku](#Heroku)</br>
 -[Sources](#Sources)</br>
 -[Issues](#Issues)</br>
 
